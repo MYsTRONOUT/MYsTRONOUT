@@ -17,8 +17,6 @@ Web3 Enthusiast, DeFi, Backend Development, Data Analytics, UI/UX
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MYsTRONOUT&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 name: Generate pacman animation
 
 on:
