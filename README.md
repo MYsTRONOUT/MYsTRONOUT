@@ -19,10 +19,11 @@ Web3 Enthusiast, DeFi, Backend Development, Data Analytics, UI/UX
 [![](https://visitcount.itsvg.in/api?id=MYsTRONOUT&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MYsTRONOUT/REPOSITORY/main/https://media.tenor.com/O0NwO8PbW9oAAAAi/dragon-nailong.gif" width="80"/>
-  <span style="font-size:2em; font-weight:bold; margin: 0 20px;">Welcome to my profile</span>
-  <img src="https://raw.githubusercontent.com/MYsTRONOUT/REPOSITORY/main/https://media.tenor.com/O0NwO8PbW9oAAAAi/dragon-nailong.gif" width="80"/>
+  <img src="https://media.tenor.com/7oYDhJvK1AYAAAAj/nailong-yellow-dragon.gif" width="100"/>
+  <strong style="font-size: 1.5em; margin: 0 20px;">Welcome to my profile</strong>
+  <img src="https://media.tenor.com/7oYDhJvK1AYAAAAj/nailong-yellow-dragon.gif" width="100"/>
 </p>
+
 
 ---
 
