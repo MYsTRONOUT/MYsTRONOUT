@@ -17,21 +17,3 @@ Web3 Enthusiast, DeFi, Backend Development, Data Analytics, UI/UX
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MYsTRONOUT&icon=0&color=0)](https://visitcount.itsvg.in)
-<h1 align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60" />
-  Welcome
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60" />
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif" alt="Animated Dragon" width="400"/>
-</p>
-
-<p align="center">
-  👋 Hello! Welcome to my GitHub profile.<br>
-  🐉 Enjoy the fire of knowledge and the wings of creativity!<br>
-</p>
-
----
-
-⭐ Jangan lupa untuk memberi bintang jika kamu suka proyek ini!
