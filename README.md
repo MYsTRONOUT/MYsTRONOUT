@@ -20,9 +20,10 @@ Web3 Enthusiast, DeFi, Backend Development, Data Analytics, UI/UX
 
 <p align="center">
   <img src="https://media.tenor.com/7oYDhJvK1AYAAAAj/nailong-yellow-dragon.gif" width="100"/>
-  <strong style="font-size: 1.5em; margin: 0 20px;">Welcome to my profile</strong>
+  <h2>Welcome to my profile</h2>
   <img src="https://media.tenor.com/7oYDhJvK1AYAAAAj/nailong-yellow-dragon.gif" width="100"/>
 </p>
+
 
 
 ---
