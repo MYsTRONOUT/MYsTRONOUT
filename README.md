@@ -17,36 +17,21 @@ Web3 Enthusiast, DeFi, Backend Development, Data Analytics, UI/UX
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MYsTRONOUT&icon=0&color=0)](https://visitcount.itsvg.in)
-name: Generate pacman animation
+<h1 align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60" />
+  Welcome
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60" />
+</h1>
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+<p align="center">
+  <img src="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif" alt="Animated Dragon" width="400"/>
+</p>
 
-  workflow_dispatch:
+<p align="center">
+  👋 Hello! Welcome to my GitHub profile.<br>
+  🐉 Enjoy the fire of knowledge and the wings of creativity!<br>
+</p>
 
-  push:
-    branches:
-    - main
+---
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-
-
-      - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+⭐ Jangan lupa untuk memberi bintang jika kamu suka proyek ini!
